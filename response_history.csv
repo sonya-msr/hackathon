@@ -1,0 +1,961 @@
+message_id,received_at,day,type,hours_to_first_response,outcome
+H5670,2026-04-01 00:58,Wed,other,7.6,resolved
+H5368,2026-04-01 03:58,Wed,maintenance emergency,5.9,vendor dispatched
+H5275,2026-04-01 06:35,Wed,leasing,1.5,no tour
+H5106,2026-04-01 07:18,Wed,leasing,1.5,tour booked
+H5693,2026-04-01 16:20,Wed,rent/payment,11.3,resolved
+H5369,2026-04-02 02:02,Thu,maintenance,6.9,work order created
+H5751,2026-04-02 05:23,Thu,leasing,3.5,no tour
+H5065,2026-04-02 06:03,Thu,leasing,2.8,tour booked
+H5269,2026-04-02 09:25,Thu,other,1.1,resolved
+H5240,2026-04-02 12:03,Thu,maintenance,1.8,work order created
+H5710,2026-04-03 00:16,Fri,other,9.0,resolved
+H5021,2026-04-03 15:48,Fri,leasing,4.2,no tour
+H5585,2026-04-03 16:19,Fri,leasing,2.0,tour booked
+H5412,2026-04-03 17:58,Fri,maintenance,64.6,work order created
+H5826,2026-04-03 18:09,Fri,maintenance,65.2,work order created
+H5156,2026-04-03 18:32,Fri,maintenance,61.5,work order created
+H5384,2026-04-03 22:19,Fri,maintenance,60.9,work order created
+H5847,2026-04-03 23:54,Fri,maintenance,57.3,work order created
+H5135,2026-04-04 06:15,Sat,leasing,53.1,no tour
+H5428,2026-04-04 19:38,Sat,leasing,39.5,no tour
+H5075,2026-04-04 23:49,Sat,rent/payment,34.5,resolved
+H5306,2026-04-05 00:49,Sun,leasing,33.2,no tour
+H5124,2026-04-05 03:00,Sun,leasing,31.2,tour booked
+H5293,2026-04-05 05:02,Sun,leasing,29.6,no tour
+H5509,2026-04-05 08:19,Sun,maintenance,24.4,work order created
+H5580,2026-04-05 12:05,Sun,leasing,22.4,no tour
+H5249,2026-04-05 12:53,Sun,rent/payment,19.2,resolved
+H5870,2026-04-05 14:52,Sun,leasing,18.1,no tour
+H5823,2026-04-05 19:11,Sun,leasing,13.6,no tour
+H5345,2026-04-05 23:18,Sun,leasing,9.3,no tour
+H5589,2026-04-06 07:45,Mon,leasing,0.4,tour booked
+H5025,2026-04-06 12:12,Mon,maintenance,3.2,work order created
+H5466,2026-04-06 18:49,Mon,leasing,14.1,tour booked
+H5360,2026-04-07 10:08,Tue,other,3.9,resolved
+H5859,2026-04-08 02:46,Wed,leasing,7.4,no tour
+H5616,2026-04-08 04:44,Wed,maintenance,6.0,work order created
+H5605,2026-04-08 09:06,Wed,leasing,2.9,no tour
+H5071,2026-04-08 11:56,Wed,maintenance,2.5,work order created
+H5131,2026-04-08 13:41,Wed,maintenance,3.6,work order created
+H5033,2026-04-08 15:36,Wed,maintenance,1.4,work order created
+H5393,2026-04-08 16:02,Wed,leasing,7.0,no tour
+H5299,2026-04-09 08:36,Thu,maintenance,1.7,work order created
+H5179,2026-04-09 10:18,Thu,maintenance,2.5,work order created
+H5506,2026-04-09 11:19,Thu,leasing,1.5,tour booked
+H5754,2026-04-09 14:59,Thu,other,2.7,resolved
+H5100,2026-04-09 17:30,Thu,maintenance,15.9,work order created
+H5865,2026-04-09 23:49,Thu,rent/payment,9.1,resolved
+H5446,2026-04-10 05:37,Fri,maintenance,3.2,work order created
+H5636,2026-04-10 09:35,Fri,maintenance,14.8,work order created
+H5772,2026-04-10 13:58,Fri,maintenance,2.2,work order created
+H5797,2026-04-10 15:07,Fri,rent/payment,1.5,resolved
+H5238,2026-04-10 16:35,Fri,leasing,3.8,no tour
+H5534,2026-04-10 20:51,Fri,maintenance,62.1,work order created
+H5442,2026-04-10 21:12,Fri,maintenance,62.1,work order created
+H5807,2026-04-11 10:28,Sat,leasing,49.3,no tour
+H5277,2026-04-11 14:17,Sat,maintenance,43.7,work order created
+H5060,2026-04-11 14:36,Sat,leasing,42.6,no tour
+H5430,2026-04-11 23:10,Sat,maintenance,34.3,work order created
+H5918,2026-04-12 06:49,Sun,rent/payment,27.1,resolved
+H5608,2026-04-12 12:36,Sun,leasing,22.4,no tour
+H5563,2026-04-12 13:43,Sun,leasing,20.9,no tour
+H5941,2026-04-13 02:18,Mon,leasing,7.0,no tour
+H5268,2026-04-13 14:05,Mon,maintenance,6.2,work order created
+H5020,2026-04-13 14:53,Mon,other,3.8,resolved
+H5950,2026-04-13 20:48,Mon,maintenance,13.9,work order created
+H5260,2026-04-13 21:13,Mon,maintenance emergency,2.3,vendor dispatched
+H5019,2026-04-13 22:50,Mon,leasing,11.7,no tour
+H5900,2026-04-14 05:07,Tue,leasing,3.1,no tour
+H5756,2026-04-14 08:44,Tue,maintenance emergency,0.7,vendor dispatched
+H5891,2026-04-15 00:58,Wed,rent/payment,8.4,resolved
+H5285,2026-04-15 04:56,Wed,rent/payment,5.9,resolved
+H5588,2026-04-15 07:25,Wed,leasing,3.1,no tour
+H5649,2026-04-15 09:11,Wed,maintenance,3.0,work order created
+H5816,2026-04-15 12:31,Wed,leasing,2.7,tour booked
+H5949,2026-04-15 12:57,Wed,maintenance,0.6,work order created
+H5420,2026-04-15 16:43,Wed,leasing,6.1,no tour
+H5598,2026-04-15 19:12,Wed,leasing,14.1,no tour
+H5938,2026-04-16 00:32,Thu,maintenance,8.7,work order created
+H5213,2026-04-16 05:09,Thu,leasing,5.8,tour booked
+H5202,2026-04-16 05:46,Thu,leasing,2.5,no tour
+H5530,2026-04-16 12:56,Thu,maintenance,0.5,work order created
+H5731,2026-04-16 13:12,Thu,maintenance,3.6,work order created
+H5881,2026-04-16 14:13,Thu,leasing,7.3,no tour
+H5851,2026-04-16 14:59,Thu,other,3.1,resolved
+H5882,2026-04-16 15:29,Thu,leasing,1.7,no tour
+H5448,2026-04-16 22:09,Thu,leasing,11.1,no tour
+H5458,2026-04-17 02:06,Fri,leasing,6.0,tour booked
+H5243,2026-04-17 04:40,Fri,maintenance,3.9,work order created
+H5237,2026-04-17 07:43,Fri,rent/payment,1.5,resolved
+H5734,2026-04-17 13:57,Fri,leasing,3.6,no tour
+H5552,2026-04-17 17:14,Fri,rent/payment,64.0,resolved
+H5776,2026-04-17 18:57,Fri,leasing,62.2,no tour
+H5001,2026-04-17 19:36,Fri,maintenance,61.2,work order created
+H5436,2026-04-17 21:37,Fri,leasing,58.9,no tour
+H5122,2026-04-18 05:48,Sat,other,53.0,resolved
+H5620,2026-04-18 13:35,Sat,rent/payment,44.9,resolved
+H5572,2026-04-18 15:03,Sat,leasing,43.1,no tour
+H5118,2026-04-18 22:03,Sat,other,36.9,resolved
+H5102,2026-04-19 14:12,Sun,maintenance,19.1,work order created
+H5914,2026-04-19 16:19,Sun,maintenance,15.8,work order created
+H5230,2026-04-19 17:26,Sun,maintenance,16.6,work order created
+H5207,2026-04-20 00:36,Mon,maintenance,7.8,work order created
+H5557,2026-04-20 02:17,Mon,maintenance,6.4,work order created
+H5648,2026-04-20 12:12,Mon,maintenance,1.9,work order created
+H5098,2026-04-20 19:00,Mon,leasing,13.9,no tour
+H5195,2026-04-20 20:41,Mon,maintenance emergency,11.6,vendor dispatched
+H5330,2026-04-20 21:24,Mon,leasing,12.1,no tour
+H5093,2026-04-20 21:41,Mon,leasing,11.8,no tour
+H5157,2026-04-20 22:10,Mon,rent/payment,11.9,resolved
+H5944,2026-04-21 17:34,Tue,leasing,14.5,no tour
+H5842,2026-04-21 23:05,Tue,maintenance,9.3,work order created
+H5242,2026-04-22 03:52,Wed,maintenance,6.3,work order created
+H5527,2026-04-22 06:05,Wed,leasing,4.2,tour booked
+H5287,2026-04-22 12:28,Wed,leasing,3.4,tour booked
+H5054,2026-04-22 13:04,Wed,maintenance,17.0,work order created
+H5906,2026-04-23 01:49,Thu,maintenance,7.6,work order created
+H5507,2026-04-23 08:40,Thu,leasing,0.1,no tour
+H5877,2026-04-23 22:05,Thu,rent/payment,12.6,resolved
+H5280,2026-04-24 11:23,Fri,rent/payment,47.5,resolved
+H5934,2026-04-24 13:30,Fri,maintenance,0.7,work order created
+H5500,2026-04-25 12:53,Sat,maintenance emergency,4.9,vendor dispatched
+H5464,2026-04-25 13:27,Sat,maintenance,42.8,work order created
+H5039,2026-04-25 13:58,Sat,leasing,44.2,no tour
+H5307,2026-04-25 14:09,Sat,rent/payment,43.5,resolved
+H5284,2026-04-26 03:38,Sun,leasing,29.7,no tour
+H5558,2026-04-26 08:28,Sun,maintenance,24.3,work order created
+H5226,2026-04-26 15:30,Sun,maintenance,18.1,work order created
+H5834,2026-04-27 00:25,Mon,leasing,9.1,no tour
+H5113,2026-04-27 15:15,Mon,maintenance,2.5,work order created
+H5153,2026-04-28 01:49,Tue,maintenance,6.5,work order created
+H5352,2026-04-28 03:58,Tue,other,5.8,resolved
+H5077,2026-04-28 14:25,Tue,maintenance,4.4,work order created
+H5844,2026-04-28 16:01,Tue,leasing,1.0,no tour
+H5894,2026-04-28 18:00,Tue,leasing,16.6,no tour
+H5164,2026-04-29 06:12,Wed,rent/payment,3.2,resolved
+H5314,2026-04-29 06:54,Wed,leasing,2.0,no tour
+H5582,2026-04-29 18:27,Wed,other,14.8,resolved
+H5628,2026-04-30 06:24,Thu,leasing,2.1,no tour
+H5726,2026-04-30 06:36,Thu,leasing,3.0,tour booked
+H5709,2026-04-30 10:39,Thu,maintenance,0.5,work order created
+H5171,2026-04-30 18:01,Thu,rent/payment,14.4,resolved
+H5487,2026-04-30 23:38,Thu,maintenance,9.9,work order created
+H5457,2026-05-01 00:38,Fri,leasing,7.4,no tour
+H5787,2026-05-01 08:13,Fri,maintenance,0.4,work order created
+H5575,2026-05-01 09:10,Fri,leasing,0.8,no tour
+H5416,2026-05-01 15:19,Fri,maintenance,2.1,work order created
+H5737,2026-05-01 18:19,Fri,leasing,61.9,no tour
+H5597,2026-05-02 01:59,Sat,maintenance,56.1,work order created
+H5329,2026-05-02 08:58,Sat,maintenance,48.7,work order created
+H5375,2026-05-02 14:01,Sat,maintenance,43.7,work order created
+H5898,2026-05-03 00:50,Sun,leasing,31.8,no tour
+H5542,2026-05-03 10:30,Sun,maintenance,21.7,work order created
+H5138,2026-05-03 13:22,Sun,maintenance,21.6,work order created
+H5417,2026-05-03 16:43,Sun,maintenance emergency,2.4,vendor dispatched
+H5791,2026-05-04 02:39,Mon,maintenance,5.5,work order created
+H5712,2026-05-04 05:46,Mon,maintenance,5.0,work order created
+H5753,2026-05-04 08:14,Mon,leasing,1.1,tour booked
+H5410,2026-05-04 12:22,Mon,leasing,2.9,tour booked
+H5028,2026-05-04 15:32,Mon,leasing,2.8,no tour
+H5111,2026-05-04 18:08,Mon,leasing,14.1,no tour
+H5630,2026-05-04 18:29,Mon,leasing,15.2,no tour
+H5112,2026-05-04 19:11,Mon,leasing,14.9,no tour
+H5155,2026-05-04 19:15,Mon,maintenance,14.6,work order created
+H5201,2026-05-05 03:44,Tue,leasing,5.7,tour booked
+H5908,2026-05-05 10:07,Tue,maintenance,3.8,work order created
+H5833,2026-05-05 20:16,Tue,maintenance,13.0,work order created
+H5163,2026-05-06 02:09,Wed,rent/payment,8.3,resolved
+H5586,2026-05-06 12:18,Wed,maintenance,1.8,work order created
+H5511,2026-05-06 14:21,Wed,leasing,1.3,tour booked
+H5699,2026-05-06 20:10,Wed,rent/payment,12.5,resolved
+H5064,2026-05-06 20:24,Wed,maintenance,12.9,work order created
+H5926,2026-05-07 06:42,Thu,leasing,4.2,no tour
+H5451,2026-05-07 14:09,Thu,maintenance,2.7,work order created
+H5765,2026-05-07 15:35,Thu,leasing,2.7,tour booked
+H5755,2026-05-07 18:18,Thu,maintenance,15.1,work order created
+H5048,2026-05-07 22:58,Thu,leasing,9.7,no tour
+H5499,2026-05-08 04:28,Fri,maintenance,4.5,work order created
+H5930,2026-05-08 06:31,Fri,leasing,3.1,no tour
+H5866,2026-05-08 08:03,Fri,other,1.4,resolved
+H5097,2026-05-08 13:08,Fri,maintenance,3.2,work order created
+H5121,2026-05-08 15:05,Fri,leasing,1.8,no tour
+H5551,2026-05-08 15:18,Fri,maintenance,1.6,work order created
+H5622,2026-05-08 18:59,Fri,maintenance,64.6,work order created
+H5483,2026-05-08 19:05,Fri,leasing,62.9,no tour
+H5576,2026-05-09 02:04,Sat,leasing,56.7,no tour
+H5878,2026-05-09 03:30,Sat,maintenance,55.2,work order created
+H5212,2026-05-09 08:34,Sat,leasing,48.5,no tour
+H5067,2026-05-09 09:41,Sat,maintenance emergency,48.2,vendor dispatched
+H5178,2026-05-09 15:59,Sat,rent/payment,44.0,resolved
+H5829,2026-05-09 21:27,Sat,maintenance,35.0,work order created
+H5671,2026-05-10 05:32,Sun,leasing,28.4,no tour
+H5910,2026-05-10 13:20,Sun,maintenance,19.0,work order created
+H5235,2026-05-10 18:48,Sun,leasing,16.5,no tour
+H5539,2026-05-10 20:17,Sun,leasing,13.8,no tour
+H5013,2026-05-11 10:26,Mon,maintenance emergency,1.0,vendor dispatched
+H5884,2026-05-11 12:16,Mon,leasing,3.1,tour booked
+H5808,2026-05-11 16:48,Mon,maintenance,3.9,work order created
+H5890,2026-05-11 16:59,Mon,leasing,1.4,tour booked
+H5413,2026-05-11 18:34,Mon,leasing,13.5,no tour
+H5789,2026-05-12 02:39,Tue,maintenance,7.4,work order created
+H5928,2026-05-12 03:32,Tue,other,5.6,resolved
+H5540,2026-05-12 04:35,Tue,maintenance,5.3,work order created
+H5510,2026-05-12 08:27,Tue,leasing,0.1,no tour
+H5603,2026-05-12 15:58,Tue,rent/payment,17.2,resolved
+H5344,2026-05-12 20:22,Tue,leasing,14.1,no tour
+H5018,2026-05-13 02:54,Wed,rent/payment,7.8,resolved
+H5099,2026-05-13 10:24,Wed,maintenance,0.8,work order created
+H5919,2026-05-13 13:25,Wed,leasing,2.7,tour booked
+H5063,2026-05-13 13:41,Wed,leasing,0.6,no tour
+H5771,2026-05-13 15:09,Wed,maintenance,2.9,work order created
+H5951,2026-05-13 19:03,Wed,maintenance,13.4,work order created
+H5553,2026-05-14 00:52,Thu,maintenance,8.7,work order created
+H5758,2026-05-14 02:50,Thu,maintenance,6.0,work order created
+H5148,2026-05-14 13:39,Thu,maintenance,0.9,work order created
+H5002,2026-05-14 13:44,Thu,maintenance,6.2,work order created
+H5115,2026-05-14 13:51,Thu,maintenance,3.5,work order created
+H5320,2026-05-14 17:06,Thu,maintenance,16.5,work order created
+H5193,2026-05-14 17:19,Thu,maintenance,17.3,work order created
+H5689,2026-05-14 18:35,Thu,rent/payment,14.7,resolved
+H5301,2026-05-14 21:56,Thu,maintenance,12.3,work order created
+H5042,2026-05-15 05:34,Fri,leasing,3.9,no tour
+H5481,2026-05-15 13:26,Fri,rent/payment,0.4,resolved
+H5792,2026-05-15 22:11,Fri,leasing,60.7,no tour
+H5619,2026-05-16 00:09,Sat,leasing,56.4,no tour
+H5209,2026-05-16 02:55,Sat,leasing,55.3,no tour
+H5858,2026-05-16 14:02,Sat,maintenance,45.6,work order created
+H5461,2026-05-17 00:43,Sun,rent/payment,35.1,resolved
+H5370,2026-05-17 07:15,Sun,leasing,28.1,no tour
+H5501,2026-05-17 09:49,Sun,leasing,25.1,tour booked
+H5524,2026-05-17 11:00,Sun,leasing,21.5,no tour
+H5841,2026-05-17 12:28,Sun,maintenance,21.7,work order created
+H5525,2026-05-17 17:02,Sun,maintenance,17.8,work order created
+H5149,2026-05-18 03:38,Mon,leasing,6.2,no tour
+H5679,2026-05-18 06:09,Mon,maintenance,3.4,work order created
+H5747,2026-05-18 20:14,Mon,leasing,13.6,no tour
+H5220,2026-05-19 02:07,Tue,maintenance,8.0,work order created
+H5136,2026-05-19 03:46,Tue,maintenance emergency,1.1,vendor dispatched
+H5565,2026-05-19 06:42,Tue,leasing,3.9,no tour
+H5959,2026-05-19 07:26,Tue,leasing,0.6,tour booked
+H5218,2026-05-19 12:24,Tue,maintenance emergency,1.2,vendor dispatched
+H5200,2026-05-19 14:50,Tue,leasing,6.8,tour booked
+H5189,2026-05-19 20:00,Tue,maintenance,13.2,work order created
+H5440,2026-05-19 23:52,Tue,other,10.3,resolved
+H5827,2026-05-20 04:26,Wed,leasing,4.7,no tour
+H5117,2026-05-20 06:15,Wed,maintenance,3.6,work order created
+H5343,2026-05-20 11:31,Wed,other,8.8,resolved
+H5717,2026-05-20 13:01,Wed,other,1.6,resolved
+H5390,2026-05-20 14:12,Wed,leasing,0.2,tour booked
+H5114,2026-05-21 03:05,Thu,leasing,5.5,no tour
+H5295,2026-05-21 03:27,Thu,maintenance,5.1,work order created
+H5342,2026-05-21 07:44,Thu,leasing,1.1,tour booked
+H5831,2026-05-21 10:15,Thu,leasing,0.9,tour booked
+H5559,2026-05-21 12:40,Thu,maintenance,1.1,work order created
+H5479,2026-05-21 13:22,Thu,maintenance,1.3,work order created
+H5647,2026-05-21 22:46,Thu,leasing,11.5,no tour
+H5009,2026-05-22 01:51,Fri,leasing,8.5,no tour
+H5336,2026-05-22 04:25,Fri,maintenance,5.5,work order created
+H5820,2026-05-22 19:27,Fri,leasing,61.7,no tour
+H5953,2026-05-23 00:19,Sat,leasing,57.2,no tour
+H5196,2026-05-23 03:21,Sat,leasing,54.0,no tour
+H5644,2026-05-23 04:39,Sat,leasing,52.9,no tour
+H5824,2026-05-23 06:19,Sat,leasing,50.6,tour booked
+H5735,2026-05-23 15:33,Sat,leasing,42.5,no tour
+H5611,2026-05-24 06:36,Sun,maintenance,28.2,work order created
+H5183,2026-05-24 08:45,Sun,other,25.9,resolved
+H5739,2026-05-24 09:43,Sun,leasing,23.4,no tour
+H5469,2026-05-24 16:06,Sun,rent/payment,18.2,resolved
+H5433,2026-05-25 05:20,Mon,leasing,3.3,no tour
+H5029,2026-05-25 05:50,Mon,maintenance,3.4,work order created
+H5353,2026-05-25 11:53,Mon,leasing,4.4,tour booked
+H5813,2026-05-25 13:58,Mon,rent/payment,1.2,resolved
+H5066,2026-05-25 20:40,Mon,maintenance,12.4,work order created
+H5108,2026-05-25 21:13,Mon,leasing,11.6,no tour
+H5529,2026-05-25 22:32,Mon,maintenance,10.8,work order created
+H5225,2026-05-26 11:10,Tue,leasing,5.4,no tour
+H5003,2026-05-26 18:58,Tue,leasing,14.3,no tour
+H5725,2026-05-27 02:07,Wed,maintenance,7.5,work order created
+H5783,2026-05-27 07:32,Wed,rent/payment,2.7,resolved
+H5190,2026-05-27 08:18,Wed,leasing,0.8,tour booked
+H5516,2026-05-27 11:11,Wed,maintenance,3.3,work order created
+H5587,2026-05-27 13:58,Wed,maintenance emergency,0.5,vendor dispatched
+H5886,2026-05-27 23:57,Wed,rent/payment,8.2,resolved
+H5317,2026-05-28 05:07,Thu,maintenance,5.4,work order created
+H5763,2026-05-28 05:51,Thu,other,3.5,resolved
+H5300,2026-05-28 09:38,Thu,maintenance,1.7,work order created
+H5632,2026-05-28 10:13,Thu,leasing,2.7,tour booked
+H5549,2026-05-28 23:06,Thu,leasing,9.7,no tour
+H5637,2026-05-29 20:04,Fri,leasing,62.3,no tour
+H5780,2026-05-30 05:28,Sat,maintenance,53.0,work order created
+H5907,2026-05-30 10:11,Sat,maintenance,49.0,work order created
+H5724,2026-05-30 18:24,Sat,leasing,39.4,tour booked
+H5286,2026-05-30 19:12,Sat,other,37.4,resolved
+H5445,2026-05-30 22:06,Sat,other,36.9,resolved
+H5103,2026-05-31 01:41,Sun,maintenance,30.4,work order created
+H5853,2026-05-31 10:29,Sun,maintenance emergency,3.9,vendor dispatched
+H5011,2026-05-31 13:40,Sun,other,18.9,resolved
+H5262,2026-05-31 13:48,Sun,maintenance,18.4,work order created
+H5234,2026-05-31 16:33,Sun,maintenance,18.9,work order created
+H5022,2026-06-01 00:28,Mon,maintenance,10.2,work order created
+H5000,2026-06-01 05:32,Mon,maintenance,3.5,work order created
+H5627,2026-06-01 11:35,Mon,maintenance,4.9,work order created
+H5174,2026-06-01 17:34,Mon,leasing,16.5,no tour
+H5683,2026-06-01 20:23,Mon,maintenance,14.4,work order created
+H5187,2026-06-01 21:01,Mon,maintenance,13.9,work order created
+H5265,2026-06-02 07:02,Tue,leasing,2.5,no tour
+H5367,2026-06-02 07:30,Tue,leasing,3.4,tour booked
+H5224,2026-06-02 09:32,Tue,leasing,1.6,tour booked
+H5942,2026-06-02 10:49,Tue,maintenance emergency,0.4,vendor dispatched
+H5463,2026-06-02 16:17,Tue,leasing,0.2,tour booked
+H5476,2026-06-03 00:12,Wed,leasing,8.6,no tour
+H5610,2026-06-03 05:28,Wed,maintenance,3.1,work order created
+H5188,2026-06-03 06:56,Wed,leasing,4.0,no tour
+H5687,2026-06-03 11:01,Wed,maintenance,9.5,work order created
+H5618,2026-06-03 12:00,Wed,maintenance,6.6,work order created
+H5896,2026-06-03 14:04,Wed,maintenance,1.2,work order created
+H5036,2026-06-03 21:43,Wed,maintenance,12.4,work order created
+H5248,2026-06-04 02:29,Thu,maintenance,5.7,work order created
+H5519,2026-06-04 04:27,Thu,maintenance emergency,6.3,vendor dispatched
+H5592,2026-06-04 07:26,Thu,maintenance emergency,2.2,vendor dispatched
+H5214,2026-06-04 10:15,Thu,leasing,1.2,tour booked
+H5769,2026-06-04 10:17,Thu,maintenance,3.1,work order created
+H5026,2026-06-04 23:29,Thu,leasing,9.1,tour booked
+H5363,2026-06-05 00:28,Fri,maintenance,8.4,work order created
+H5790,2026-06-05 08:05,Fri,maintenance,2.1,work order created
+H5579,2026-06-05 08:10,Fri,rent/payment,0.1,resolved
+H5854,2026-06-05 08:13,Fri,maintenance,0.6,work order created
+H5035,2026-06-05 09:42,Fri,leasing,15.7,no tour
+H5080,2026-06-06 00:03,Sat,maintenance,58.0,work order created
+H5606,2026-06-06 02:29,Sat,leasing,53.9,no tour
+H5454,2026-06-06 08:18,Sat,rent/payment,51.6,resolved
+H5467,2026-06-06 15:29,Sat,other,41.2,resolved
+H5715,2026-06-07 00:58,Sun,leasing,35.0,no tour
+H5006,2026-06-07 02:19,Sun,maintenance,30.3,work order created
+H5748,2026-06-07 02:52,Sun,maintenance,30.5,work order created
+H5382,2026-06-07 05:31,Sun,maintenance emergency,29.8,vendor dispatched
+H5221,2026-06-07 06:36,Sun,leasing,27.1,no tour
+H5492,2026-06-07 07:00,Sun,maintenance,25.9,work order created
+H5480,2026-06-07 11:52,Sun,other,22.3,resolved
+H5315,2026-06-07 12:47,Sun,maintenance,21.8,work order created
+H5912,2026-06-08 00:22,Mon,leasing,9.8,no tour
+H5407,2026-06-08 07:37,Mon,leasing,0.9,tour booked
+H5533,2026-06-08 11:35,Mon,maintenance,2.0,work order created
+H5310,2026-06-08 14:23,Mon,maintenance emergency,0.9,vendor dispatched
+H5263,2026-06-08 15:27,Mon,other,17.1,resolved
+H5515,2026-06-08 16:51,Mon,leasing,3.1,no tour
+H5340,2026-06-08 20:14,Mon,maintenance,13.6,work order created
+H5409,2026-06-08 20:31,Mon,leasing,12.8,no tour
+H5266,2026-06-08 22:58,Mon,maintenance,10.8,work order created
+H5774,2026-06-08 23:02,Mon,rent/payment,10.3,resolved
+H5062,2026-06-08 23:58,Mon,leasing,10.1,no tour
+H5374,2026-06-09 06:10,Tue,maintenance,2.5,work order created
+H5175,2026-06-09 06:39,Tue,leasing,2.2,tour booked
+H5323,2026-06-09 12:38,Tue,rent/payment,7.7,resolved
+H5116,2026-06-09 13:30,Tue,leasing,1.3,tour booked
+H5545,2026-06-09 14:41,Tue,maintenance,2.3,work order created
+H5714,2026-06-09 16:15,Tue,leasing,1.5,no tour
+H5107,2026-06-09 19:02,Tue,leasing,15.4,no tour
+H5450,2026-06-10 01:12,Wed,maintenance,8.2,work order created
+H5208,2026-06-10 12:24,Wed,rent/payment,4.2,resolved
+H5052,2026-06-11 03:20,Thu,leasing,6.4,no tour
+H5716,2026-06-11 04:03,Thu,maintenance,5.8,work order created
+H5556,2026-06-11 09:23,Thu,other,3.5,resolved
+H5015,2026-06-11 14:17,Thu,leasing,4.3,no tour
+H5424,2026-06-11 15:42,Thu,leasing,1.2,tour booked
+H5696,2026-06-12 01:35,Fri,maintenance,8.2,work order created
+H5623,2026-06-12 05:00,Fri,leasing,5.7,no tour
+H5795,2026-06-12 10:56,Fri,leasing,1.6,no tour
+H5784,2026-06-12 11:48,Fri,other,1.7,resolved
+H5697,2026-06-12 19:58,Fri,leasing,61.5,no tour
+H5206,2026-06-13 07:35,Sat,rent/payment,50.5,resolved
+H5474,2026-06-13 16:33,Sat,maintenance,39.6,work order created
+H5668,2026-06-13 23:53,Sat,leasing,34.4,no tour
+H5046,2026-06-14 11:37,Sun,leasing,23.1,no tour
+H5459,2026-06-14 17:49,Sun,leasing,17.0,no tour
+H5347,2026-06-14 18:35,Sun,rent/payment,16.3,resolved
+H5388,2026-06-14 21:57,Sun,leasing,12.8,no tour
+H5095,2026-06-15 02:09,Mon,leasing,6.1,tour booked
+H5903,2026-06-15 03:21,Mon,leasing,6.8,no tour
+H5349,2026-06-15 06:39,Mon,rent/payment,2.0,resolved
+H5339,2026-06-15 19:32,Mon,maintenance,14.9,work order created
+H5255,2026-06-16 11:16,Tue,leasing,1.2,no tour
+H5426,2026-06-16 18:43,Tue,maintenance emergency,14.9,vendor dispatched
+H5943,2026-06-16 22:40,Tue,leasing,10.8,tour booked
+H5377,2026-06-17 01:19,Wed,leasing,7.2,no tour
+H5348,2026-06-17 01:41,Wed,leasing,8.4,no tour
+H5335,2026-06-17 20:25,Wed,maintenance,13.8,work order created
+H5528,2026-06-18 05:17,Thu,leasing,4.3,no tour
+H5546,2026-06-18 07:44,Thu,leasing,1.1,no tour
+H5139,2026-06-18 07:51,Thu,maintenance,2.8,work order created
+H5885,2026-06-18 10:09,Thu,leasing,0.5,no tour
+H5625,2026-06-18 13:08,Thu,leasing,0.9,tour booked
+H5432,2026-06-18 14:12,Thu,maintenance,6.1,work order created
+H5380,2026-06-19 06:25,Fri,maintenance,4.1,work order created
+H5955,2026-06-19 06:48,Fri,leasing,2.5,tour booked
+H5017,2026-06-19 13:44,Fri,maintenance,5.5,work order created
+H5008,2026-06-19 13:51,Fri,maintenance,0.7,work order created
+H5560,2026-06-19 14:07,Fri,maintenance,7.2,work order created
+H5773,2026-06-19 15:36,Fri,maintenance,0.7,work order created
+H5161,2026-06-19 16:22,Fri,leasing,2.5,tour booked
+H5664,2026-06-19 19:24,Fri,leasing,60.7,no tour
+H5395,2026-06-19 19:50,Fri,maintenance emergency,3.8,vendor dispatched
+H5645,2026-06-19 20:07,Fri,maintenance,62.7,work order created
+H5497,2026-06-19 23:22,Fri,maintenance,58.9,work order created
+H5684,2026-06-20 02:54,Sat,leasing,53.8,no tour
+H5639,2026-06-20 05:25,Sat,maintenance,52.7,work order created
+H5142,2026-06-20 07:44,Sat,maintenance,50.2,work order created
+H5667,2026-06-20 09:34,Sat,leasing,50.1,no tour
+H5303,2026-06-20 17:42,Sat,maintenance,41.6,work order created
+H5191,2026-06-21 10:29,Sun,other,22.4,resolved
+H5396,2026-06-21 11:30,Sun,other,23.9,resolved
+H5229,2026-06-21 12:34,Sun,maintenance,23.2,work order created
+H5770,2026-06-21 12:51,Sun,leasing,22.8,no tour
+H5633,2026-06-22 00:48,Mon,rent/payment,7.3,resolved
+H5119,2026-06-22 09:42,Mon,maintenance,1.6,work order created
+H5775,2026-06-22 15:53,Mon,leasing,1.3,no tour
+H5871,2026-06-22 21:40,Mon,leasing,13.1,no tour
+H5596,2026-06-22 22:02,Mon,leasing,11.2,no tour
+H5233,2026-06-23 02:42,Tue,leasing,7.3,no tour
+H5365,2026-06-24 01:38,Wed,leasing,6.5,no tour
+H5408,2026-06-24 21:13,Wed,maintenance,13.2,work order created
+H5612,2026-06-25 00:44,Thu,rent/payment,8.2,resolved
+H5838,2026-06-25 02:36,Thu,leasing,7.9,no tour
+H5079,2026-06-25 04:10,Thu,maintenance,6.4,work order created
+H5571,2026-06-25 04:30,Thu,maintenance,6.0,work order created
+H5470,2026-06-25 05:17,Thu,maintenance,4.8,work order created
+H5707,2026-06-25 08:12,Thu,maintenance emergency,2.4,vendor dispatched
+H5822,2026-06-25 18:55,Thu,maintenance,13.1,work order created
+H5848,2026-06-25 20:32,Thu,other,11.5,resolved
+H5899,2026-06-25 23:44,Thu,maintenance emergency,8.6,vendor dispatched
+H5652,2026-06-26 03:56,Fri,maintenance,4.6,work order created
+H5069,2026-06-26 04:16,Fri,leasing,5.6,no tour
+H5023,2026-06-26 15:34,Fri,maintenance,0.9,work order created
+H5828,2026-06-26 17:13,Fri,maintenance emergency,5.5,vendor dispatched
+H5165,2026-06-26 18:15,Fri,leasing,61.8,no tour
+H5940,2026-06-27 01:45,Sat,leasing,55.6,no tour
+H5543,2026-06-27 08:44,Sat,maintenance,50.9,work order created
+H5400,2026-06-27 14:39,Sat,maintenance,41.8,work order created
+H5569,2026-06-27 16:44,Sat,maintenance,41.9,work order created
+H5935,2026-06-27 18:53,Sat,leasing,38.0,no tour
+H5037,2026-06-28 08:20,Sun,maintenance,25.3,work order created
+H5863,2026-06-28 14:44,Sun,maintenance,17.4,work order created
+H5864,2026-06-28 18:38,Sun,maintenance,14.6,work order created
+H5059,2026-06-28 20:08,Sun,maintenance,15.2,work order created
+H5477,2026-06-28 21:59,Sun,maintenance,13.1,work order created
+H5034,2026-06-29 02:43,Mon,other,8.0,resolved
+H5703,2026-06-29 04:27,Mon,leasing,5.4,no tour
+H5688,2026-06-29 06:54,Mon,leasing,4.1,no tour
+H5166,2026-06-29 07:42,Mon,maintenance,0.3,work order created
+H5302,2026-06-29 14:53,Mon,leasing,19.0,no tour
+H5084,2026-06-29 20:30,Mon,leasing,12.1,no tour
+H5843,2026-06-29 22:53,Mon,leasing,10.6,tour booked
+H5503,2026-06-29 23:58,Mon,maintenance,9.6,work order created
+H5729,2026-06-30 07:04,Tue,maintenance,1.7,work order created
+H5074,2026-06-30 07:41,Tue,maintenance,1.5,work order created
+H5570,2026-06-30 08:22,Tue,maintenance,2.0,work order created
+H5601,2026-07-01 01:35,Wed,maintenance,6.6,work order created
+H5217,2026-07-01 06:00,Wed,maintenance emergency,1.8,vendor dispatched
+H5090,2026-07-01 10:02,Wed,maintenance emergency,0.2,vendor dispatched
+H5704,2026-07-01 14:24,Wed,rent/payment,5.7,resolved
+H5893,2026-07-01 14:49,Wed,maintenance,7.3,work order created
+H5081,2026-07-01 15:46,Wed,maintenance,0.8,work order created
+H5040,2026-07-01 18:28,Wed,leasing,15.8,no tour
+H5867,2026-07-01 19:26,Wed,maintenance,13.8,work order created
+H5873,2026-07-01 19:30,Wed,maintenance,14.7,work order created
+H5308,2026-07-02 01:31,Thu,leasing,8.1,no tour
+H5956,2026-07-02 02:34,Thu,leasing,6.3,no tour
+H5548,2026-07-02 06:59,Thu,maintenance,3.0,work order created
+H5495,2026-07-02 22:35,Thu,maintenance,11.8,work order created
+H5562,2026-07-03 05:44,Fri,maintenance,3.4,work order created
+H5591,2026-07-03 22:57,Fri,maintenance,59.1,work order created
+H5180,2026-07-04 14:02,Sat,maintenance,44.0,work order created
+H5204,2026-07-04 17:13,Sat,leasing,42.1,no tour
+H5883,2026-07-04 19:19,Sat,leasing,39.0,no tour
+H5082,2026-07-04 21:09,Sat,leasing,38.0,no tour
+H5947,2026-07-04 23:19,Sat,maintenance,33.4,work order created
+H5251,2026-07-05 01:53,Sun,leasing,33.7,no tour
+H5326,2026-07-05 03:30,Sun,maintenance,31.6,work order created
+H5444,2026-07-05 10:18,Sun,maintenance,22.8,work order created
+H5415,2026-07-05 10:49,Sun,maintenance,23.1,work order created
+H5678,2026-07-05 12:53,Sun,leasing,22.5,no tour
+H5682,2026-07-05 12:58,Sun,maintenance,19.1,work order created
+H5621,2026-07-05 21:21,Sun,rent/payment,14.6,resolved
+H5658,2026-07-06 03:07,Mon,leasing,6.8,tour booked
+H5078,2026-07-06 04:43,Mon,leasing,6.2,no tour
+H5133,2026-07-06 04:44,Mon,leasing,4.5,no tour
+H5948,2026-07-06 18:07,Mon,leasing,15.3,no tour
+H5185,2026-07-06 22:21,Mon,leasing,12.4,no tour
+H5154,2026-07-06 23:46,Mon,maintenance,8.7,work order created
+H5253,2026-07-07 00:05,Tue,leasing,9.7,no tour
+H5364,2026-07-07 08:37,Tue,maintenance,2.4,work order created
+H5399,2026-07-07 15:14,Tue,other,29.3,resolved
+H5292,2026-07-07 19:26,Tue,maintenance,14.5,work order created
+H5931,2026-07-08 06:34,Wed,maintenance,2.4,work order created
+H5151,2026-07-08 09:00,Wed,leasing,1.8,no tour
+H5604,2026-07-08 09:16,Wed,maintenance,4.5,work order created
+H5745,2026-07-08 10:38,Wed,maintenance,2.0,work order created
+H5531,2026-07-08 15:03,Wed,leasing,5.7,no tour
+H5475,2026-07-08 16:46,Wed,maintenance,6.8,work order created
+H5577,2026-07-08 17:41,Wed,maintenance,14.8,work order created
+H5804,2026-07-08 17:50,Wed,leasing,15.7,no tour
+H5650,2026-07-09 00:13,Thu,maintenance,8.6,work order created
+H5296,2026-07-09 03:08,Thu,leasing,5.9,no tour
+H5216,2026-07-09 04:31,Thu,maintenance,4.1,work order created
+H5830,2026-07-09 09:14,Thu,other,2.5,resolved
+H5642,2026-07-09 10:37,Thu,leasing,9.5,no tour
+H5821,2026-07-09 11:23,Thu,leasing,1.7,no tour
+H5744,2026-07-09 13:42,Thu,maintenance,0.4,work order created
+H5504,2026-07-09 18:09,Thu,leasing,14.2,tour booked
+H5144,2026-07-09 19:27,Thu,rent/payment,15.5,resolved
+H5523,2026-07-09 22:57,Thu,maintenance,10.0,work order created
+H5228,2026-07-10 10:57,Fri,rent/payment,9.2,resolved
+H5631,2026-07-10 11:14,Fri,leasing,4.4,no tour
+H5584,2026-07-10 20:17,Fri,leasing,60.0,no tour
+H5857,2026-07-10 20:43,Fri,maintenance,63.0,work order created
+H5850,2026-07-11 00:48,Sat,other,58.0,resolved
+H5386,2026-07-11 02:55,Sat,leasing,56.4,no tour
+H5134,2026-07-11 07:30,Sat,other,52.2,resolved
+H5328,2026-07-11 09:09,Sat,leasing,48.0,tour booked
+H5346,2026-07-11 11:50,Sat,leasing,45.5,no tour
+H5425,2026-07-11 13:30,Sat,other,43.1,resolved
+H5957,2026-07-11 17:13,Sat,maintenance,40.3,work order created
+H5686,2026-07-12 01:58,Sun,rent/payment,31.2,resolved
+H5337,2026-07-12 03:19,Sun,leasing,29.4,no tour
+H5904,2026-07-12 23:55,Sun,maintenance,10.4,work order created
+H5659,2026-07-13 04:47,Mon,leasing,4.6,no tour
+H5513,2026-07-13 04:50,Mon,maintenance,3.5,work order created
+H5502,2026-07-13 09:29,Mon,maintenance,2.0,work order created
+H5231,2026-07-13 15:16,Mon,maintenance,1.9,work order created
+H5869,2026-07-13 16:12,Mon,maintenance,1.8,work order created
+H5056,2026-07-13 23:20,Mon,maintenance emergency,3.0,vendor dispatched
+H5257,2026-07-14 07:41,Tue,leasing,2.2,no tour
+H5270,2026-07-14 11:40,Tue,maintenance,8.9,work order created
+H5441,2026-07-14 15:07,Tue,maintenance,0.9,work order created
+H5932,2026-07-14 23:58,Tue,leasing,8.5,no tour
+H5856,2026-07-15 02:24,Wed,leasing,6.4,tour booked
+H5223,2026-07-15 06:19,Wed,maintenance,3.0,work order created
+H5402,2026-07-15 06:21,Wed,rent/payment,2.0,resolved
+H5258,2026-07-15 13:09,Wed,leasing,4.7,no tour
+H5350,2026-07-15 13:44,Wed,maintenance,0.7,work order created
+H5145,2026-07-15 15:33,Wed,maintenance,3.6,work order created
+H5933,2026-07-15 23:27,Wed,leasing,8.6,no tour
+H5351,2026-07-16 09:07,Thu,leasing,2.2,no tour
+H5752,2026-07-16 12:00,Thu,maintenance,3.6,work order created
+H5727,2026-07-16 17:29,Thu,leasing,15.4,no tour
+H5092,2026-07-17 00:40,Fri,maintenance,10.2,work order created
+H5874,2026-07-17 09:50,Fri,leasing,1.4,no tour
+H5109,2026-07-17 10:40,Fri,leasing,0.9,tour booked
+H5581,2026-07-17 11:44,Fri,leasing,4.7,tour booked
+H5954,2026-07-18 18:23,Sat,rent/payment,39.7,resolved
+H5288,2026-07-18 19:13,Sat,leasing,40.5,no tour
+H5094,2026-07-19 05:43,Sun,rent/payment,28.3,resolved
+H5846,2026-07-19 07:32,Sun,rent/payment,24.6,resolved
+H5641,2026-07-19 18:31,Sun,maintenance,13.6,work order created
+H5333,2026-07-19 23:08,Sun,leasing,8.9,tour booked
+H5713,2026-07-20 15:56,Mon,leasing,2.2,no tour
+H5764,2026-07-20 17:08,Mon,leasing,15.1,no tour
+H5120,2026-07-21 04:38,Tue,leasing,4.8,no tour
+H5167,2026-07-21 04:43,Tue,leasing,3.3,no tour
+H5651,2026-07-21 07:39,Tue,leasing,0.6,no tour
+H5341,2026-07-21 10:30,Tue,maintenance,1.6,work order created
+H5456,2026-07-21 20:40,Tue,maintenance,12.9,work order created
+H5498,2026-07-22 07:00,Wed,other,1.9,resolved
+H5282,2026-07-22 08:32,Wed,leasing,0.6,no tour
+H5677,2026-07-22 09:26,Wed,leasing,2.7,no tour
+H5695,2026-07-22 09:28,Wed,leasing,0.7,no tour
+H5143,2026-07-22 10:06,Wed,maintenance,2.5,work order created
+H5083,2026-07-22 11:46,Wed,other,0.3,resolved
+H5694,2026-07-22 14:41,Wed,leasing,10.3,no tour
+H5168,2026-07-22 15:08,Wed,leasing,1.2,tour booked
+H5653,2026-07-22 21:36,Wed,leasing,11.7,no tour
+H5654,2026-07-22 22:05,Wed,leasing,10.9,tour booked
+H5721,2026-07-22 23:03,Wed,leasing,11.9,no tour
+H5429,2026-07-23 03:24,Thu,maintenance,7.6,work order created
+H5361,2026-07-23 15:21,Thu,maintenance emergency,0.5,vendor dispatched
+H5465,2026-07-23 16:06,Thu,rent/payment,1.2,resolved
+H5005,2026-07-23 19:41,Thu,maintenance,13.6,work order created
+H5331,2026-07-23 21:21,Thu,maintenance,12.5,work order created
+H5819,2026-07-24 00:01,Fri,leasing,9.2,no tour
+H5158,2026-07-24 03:17,Fri,maintenance,4.7,work order created
+H5705,2026-07-24 04:05,Fri,leasing,4.2,no tour
+H5403,2026-07-24 07:07,Fri,other,3.3,resolved
+H5568,2026-07-24 15:24,Fri,maintenance,4.6,work order created
+H5921,2026-07-25 05:37,Sat,leasing,53.7,no tour
+H5482,2026-07-25 12:32,Sat,other,46.6,resolved
+H5561,2026-07-25 14:32,Sat,maintenance,44.8,work order created
+H5150,2026-07-25 15:04,Sat,other,43.6,resolved
+H5852,2026-07-25 17:31,Sat,maintenance,39.4,work order created
+H5085,2026-07-25 20:41,Sat,maintenance,36.0,work order created
+H5937,2026-07-25 21:34,Sat,maintenance,36.7,work order created
+H5958,2026-07-25 21:45,Sat,rent/payment,34.4,resolved
+H5125,2026-07-25 22:10,Sat,leasing,37.4,no tour
+H5205,2026-07-25 23:08,Sat,rent/payment,32.9,resolved
+H5290,2026-07-26 02:21,Sun,rent/payment,30.1,resolved
+H5801,2026-07-26 05:56,Sun,rent/payment,27.3,resolved
+H5338,2026-07-26 08:01,Sun,rent/payment,24.3,resolved
+H5373,2026-07-26 08:12,Sun,rent/payment,26.4,resolved
+H5916,2026-07-26 21:45,Sun,leasing,10.8,no tour
+H5719,2026-07-26 22:50,Sun,leasing,10.7,no tour
+H5418,2026-07-27 11:29,Mon,maintenance,4.1,work order created
+H5662,2026-07-27 17:43,Mon,maintenance,15.3,work order created
+H5274,2026-07-27 18:22,Mon,leasing,15.2,tour booked
+H5640,2026-07-27 21:18,Mon,leasing,10.7,tour booked
+H5638,2026-07-28 01:54,Tue,other,7.4,resolved
+H5812,2026-07-28 08:29,Tue,maintenance,0.1,work order created
+H5452,2026-07-28 09:08,Tue,maintenance emergency,0.5,vendor dispatched
+H5578,2026-07-28 15:49,Tue,maintenance,3.2,work order created
+H5291,2026-07-28 20:44,Tue,rent/payment,12.4,resolved
+H5489,2026-07-29 02:29,Wed,leasing,6.3,no tour
+H5447,2026-07-29 04:40,Wed,leasing,5.8,no tour
+H5923,2026-07-29 13:00,Wed,leasing,7.0,no tour
+H5272,2026-07-29 19:44,Wed,maintenance,12.3,work order created
+H5406,2026-07-29 21:46,Wed,other,11.7,resolved
+H5371,2026-07-29 22:57,Wed,leasing,9.9,no tour
+H5182,2026-07-30 01:37,Thu,leasing,7.8,no tour
+H5517,2026-07-30 03:01,Thu,maintenance,6.0,work order created
+H5861,2026-07-30 03:43,Thu,maintenance emergency,6.1,vendor dispatched
+H5880,2026-07-30 05:10,Thu,maintenance,5.3,work order created
+H5141,2026-07-30 09:38,Thu,maintenance,1.1,work order created
+H5471,2026-07-30 10:05,Thu,other,4.4,resolved
+H5279,2026-07-30 17:43,Thu,maintenance emergency,17.3,vendor dispatched
+H5484,2026-07-31 00:17,Fri,maintenance,10.5,work order created
+H5862,2026-07-31 02:55,Fri,leasing,7.6,no tour
+H5555,2026-07-31 03:18,Fri,other,7.0,resolved
+H5669,2026-07-31 16:47,Fri,maintenance,0.8,work order created
+H5126,2026-07-31 17:35,Fri,maintenance,63.5,work order created
+H5732,2026-07-31 20:01,Fri,rent/payment,62.7,resolved
+H5086,2026-08-01 11:51,Sat,maintenance,47.8,work order created
+H5538,2026-08-01 15:47,Sat,maintenance,43.4,work order created
+H5316,2026-08-01 16:27,Sat,leasing,42.4,no tour
+H5027,2026-08-01 17:33,Sat,maintenance,39.9,work order created
+H5281,2026-08-01 19:57,Sat,maintenance,38.3,work order created
+H5055,2026-08-01 20:35,Sat,maintenance,38.6,work order created
+H5663,2026-08-01 22:59,Sat,leasing,36.0,no tour
+H5443,2026-08-02 02:20,Sun,maintenance,31.2,work order created
+H5617,2026-08-02 02:51,Sun,other,32.4,resolved
+H5391,2026-08-02 05:33,Sun,maintenance,30.2,work order created
+H5032,2026-08-02 06:49,Sun,maintenance,27.3,work order created
+H5718,2026-08-02 09:22,Sun,maintenance,24.8,work order created
+H5915,2026-08-02 10:12,Sun,maintenance,23.1,work order created
+H5541,2026-08-02 11:43,Sun,leasing,21.7,no tour
+H5590,2026-08-02 13:32,Sun,maintenance,22.1,work order created
+H5486,2026-08-02 17:13,Sun,leasing,15.7,no tour
+H5635,2026-08-03 07:39,Mon,maintenance emergency,2.2,vendor dispatched
+H5701,2026-08-03 08:26,Mon,other,2.1,resolved
+H5129,2026-08-03 14:39,Mon,rent/payment,3.2,resolved
+H5876,2026-08-03 17:45,Mon,leasing,16.5,no tour
+H5366,2026-08-03 21:12,Mon,leasing,11.3,no tour
+H5839,2026-08-04 05:51,Tue,leasing,5.0,tour booked
+H5672,2026-08-04 12:33,Tue,rent/payment,1.7,resolved
+H5321,2026-08-04 14:34,Tue,leasing,1.8,no tour
+H5431,2026-08-04 18:40,Tue,other,13.7,resolved
+H5811,2026-08-04 19:29,Tue,leasing,13.5,no tour
+H5624,2026-08-04 19:44,Tue,leasing,12.5,no tour
+H5359,2026-08-04 21:30,Tue,leasing,13.0,no tour
+H5762,2026-08-05 09:07,Wed,rent/payment,2.7,resolved
+H5394,2026-08-05 11:34,Wed,maintenance,3.1,work order created
+H5661,2026-08-05 14:15,Wed,leasing,16.2,no tour
+H5494,2026-08-05 19:05,Wed,maintenance,15.8,work order created
+H5768,2026-08-06 12:09,Thu,leasing,3.9,tour booked
+H5702,2026-08-06 19:30,Thu,leasing,15.1,tour booked
+H5170,2026-08-06 23:15,Thu,leasing,11.0,no tour
+H5573,2026-08-07 03:09,Fri,maintenance,6.4,work order created
+H5945,2026-08-07 03:39,Fri,rent/payment,5.5,resolved
+H5665,2026-08-07 04:11,Fri,leasing,5.6,no tour
+H5741,2026-08-07 08:38,Fri,maintenance,0.1,work order created
+H5690,2026-08-07 18:48,Fri,other,62.2,resolved
+H5757,2026-08-09 00:37,Sun,leasing,35.0,no tour
+H5825,2026-08-09 01:21,Sun,leasing,31.2,no tour
+H5913,2026-08-09 05:21,Sun,maintenance,28.5,work order created
+H5127,2026-08-09 07:24,Sun,rent/payment,28.6,resolved
+H5749,2026-08-09 12:43,Sun,leasing,21.5,no tour
+H5356,2026-08-09 12:53,Sun,rent/payment,19.3,resolved
+H5392,2026-08-09 14:32,Sun,maintenance,18.9,work order created
+H5574,2026-08-09 17:13,Sun,leasing,15.5,no tour
+H5322,2026-08-09 20:49,Sun,other,13.9,resolved
+H5522,2026-08-09 21:28,Sun,maintenance,14.1,work order created
+H5271,2026-08-10 08:49,Mon,rent/payment,1.5,resolved
+H5311,2026-08-10 12:25,Mon,other,1.9,resolved
+H5810,2026-08-10 13:02,Mon,maintenance,3.2,work order created
+H5547,2026-08-11 03:04,Tue,maintenance,7.2,work order created
+H5836,2026-08-11 07:14,Tue,leasing,0.9,no tour
+H5929,2026-08-11 13:03,Tue,maintenance,4.5,work order created
+H5192,2026-08-11 19:51,Tue,leasing,13.1,no tour
+H5362,2026-08-11 20:00,Tue,other,13.8,resolved
+H5210,2026-08-12 05:22,Wed,leasing,4.2,no tour
+H5924,2026-08-12 11:37,Wed,leasing,2.0,tour booked
+H5096,2026-08-12 15:56,Wed,other,12.8,resolved
+H5537,2026-08-12 16:58,Wed,leasing,12.7,no tour
+H5215,2026-08-12 22:35,Wed,other,9.5,resolved
+H5012,2026-08-13 03:53,Thu,maintenance emergency,1.5,vendor dispatched
+H5354,2026-08-13 07:08,Thu,rent/payment,1.7,resolved
+H5779,2026-08-13 09:44,Thu,maintenance,0.9,work order created
+H5101,2026-08-14 01:54,Fri,maintenance,7.3,work order created
+H5554,2026-08-14 09:02,Fri,leasing,11.2,tour booked
+H5832,2026-08-14 12:46,Fri,leasing,5.1,tour booked
+H5088,2026-08-14 16:04,Fri,rent/payment,2.4,resolved
+H5276,2026-08-14 18:14,Fri,maintenance,64.6,work order created
+H5936,2026-08-14 19:21,Fri,leasing,63.2,no tour
+H5706,2026-08-14 23:48,Fri,leasing,57.4,no tour
+H5264,2026-08-15 04:12,Sat,leasing,52.9,no tour
+H5514,2026-08-15 04:48,Sat,leasing,52.9,tour booked
+H5016,2026-08-15 06:08,Sat,leasing,51.9,no tour
+H5478,2026-08-15 12:50,Sat,other,44.4,resolved
+H5845,2026-08-15 17:00,Sat,leasing,40.9,no tour
+H5186,2026-08-15 22:03,Sat,leasing,37.4,no tour
+H5835,2026-08-15 23:33,Sat,rent/payment,32.6,resolved
+H5089,2026-08-16 09:51,Sun,leasing,24.6,no tour
+H5222,2026-08-16 10:46,Sun,leasing,24.8,no tour
+H5837,2026-08-16 11:33,Sun,leasing,22.9,no tour
+H5050,2026-08-16 15:20,Sun,maintenance,19.6,work order created
+H5398,2026-08-16 17:51,Sun,rent/payment,17.5,resolved
+H5294,2026-08-16 19:35,Sun,leasing,15.4,no tour
+H5404,2026-08-16 22:17,Sun,leasing,13.4,no tour
+H5849,2026-08-16 22:47,Sun,maintenance,9.7,work order created
+H5536,2026-08-16 22:55,Sun,rent/payment,12.0,resolved
+H5785,2026-08-16 23:36,Sun,maintenance,10.8,work order created
+H5468,2026-08-17 01:54,Mon,maintenance,7.2,work order created
+H5252,2026-08-17 02:45,Mon,maintenance,5.5,work order created
+H5766,2026-08-17 03:04,Mon,leasing,5.7,no tour
+H5720,2026-08-17 04:27,Mon,leasing,4.5,no tour
+H5031,2026-08-17 04:29,Mon,leasing,6.0,no tour
+H5520,2026-08-17 05:29,Mon,maintenance,5.4,work order created
+H5567,2026-08-17 08:17,Mon,maintenance,1.5,work order created
+H5518,2026-08-17 12:22,Mon,rent/payment,4.4,resolved
+H5041,2026-08-17 18:26,Mon,maintenance,14.0,work order created
+H5241,2026-08-18 00:25,Tue,leasing,9.3,no tour
+H5312,2026-08-18 04:30,Tue,maintenance,4.5,work order created
+H5289,2026-08-18 05:49,Tue,maintenance,3.8,work order created
+H5922,2026-08-18 17:46,Tue,leasing,14.4,no tour
+H5673,2026-08-18 18:22,Tue,maintenance,13.8,work order created
+H5550,2026-08-18 19:25,Tue,rent/payment,12.8,resolved
+H5786,2026-08-18 20:22,Tue,leasing,14.4,tour booked
+H5892,2026-08-19 00:00,Wed,maintenance,9.7,work order created
+H5334,2026-08-19 05:33,Wed,maintenance,4.6,work order created
+H5043,2026-08-19 05:58,Wed,other,3.9,resolved
+H5614,2026-08-20 01:38,Thu,leasing,8.9,tour booked
+H5355,2026-08-20 04:16,Thu,leasing,6.1,no tour
+H5740,2026-08-20 05:17,Thu,maintenance,2.8,work order created
+H5692,2026-08-20 06:36,Thu,other,1.9,resolved
+H5656,2026-08-20 09:01,Thu,leasing,0.6,no tour
+H5057,2026-08-20 19:47,Thu,maintenance,12.7,work order created
+H5952,2026-08-21 05:10,Fri,leasing,3.4,tour booked
+H5600,2026-08-21 07:45,Fri,leasing,1.8,tour booked
+H5110,2026-08-21 07:51,Fri,other,0.5,resolved
+H5544,2026-08-21 19:27,Fri,leasing,63.9,no tour
+H5917,2026-08-21 20:05,Fri,leasing,62.6,no tour
+H5203,2026-08-21 22:37,Fri,maintenance,59.6,work order created
+H5613,2026-08-21 22:54,Fri,maintenance emergency,4.1,vendor dispatched
+H5024,2026-08-22 01:54,Sat,maintenance,55.1,work order created
+H5675,2026-08-22 02:40,Sat,maintenance,53.8,work order created
+H5680,2026-08-22 05:48,Sat,rent/payment,53.9,resolved
+H5061,2026-08-22 07:18,Sat,maintenance,50.1,work order created
+H5493,2026-08-22 11:20,Sat,maintenance,47.0,work order created
+H5049,2026-08-22 16:07,Sat,leasing,42.9,no tour
+H5803,2026-08-23 02:36,Sun,other,29.6,resolved
+H5643,2026-08-23 03:24,Sun,leasing,30.4,no tour
+H5261,2026-08-23 05:22,Sun,maintenance,28.6,work order created
+H5794,2026-08-23 17:34,Sun,leasing,14.8,no tour
+H5485,2026-08-23 18:06,Sun,leasing,16.1,tour booked
+H5583,2026-08-23 18:09,Sun,maintenance,14.9,work order created
+H5358,2026-08-23 20:50,Sun,leasing,13.6,tour booked
+H5298,2026-08-24 06:00,Mon,leasing,3.5,no tour
+H5676,2026-08-24 11:00,Mon,maintenance,4.3,work order created
+H5236,2026-08-24 11:03,Mon,maintenance emergency,0.5,vendor dispatched
+H5814,2026-08-25 09:02,Tue,maintenance,1.6,work order created
+H5130,2026-08-25 13:21,Tue,maintenance,8.3,work order created
+H5219,2026-08-25 14:49,Tue,maintenance,1.1,work order created
+H5047,2026-08-25 20:42,Tue,leasing,14.0,no tour
+H5599,2026-08-26 02:02,Wed,other,8.3,resolved
+H5532,2026-08-26 02:57,Wed,leasing,7.8,tour booked
+H5305,2026-08-26 03:44,Wed,maintenance,4.8,work order created
+H5267,2026-08-26 03:56,Wed,leasing,5.2,no tour
+H5674,2026-08-26 05:44,Wed,maintenance,4.2,work order created
+H5698,2026-08-26 12:37,Wed,leasing,6.4,no tour
+H5381,2026-08-26 19:33,Wed,leasing,13.7,no tour
+H5211,2026-08-26 23:18,Wed,other,9.5,resolved
+H5376,2026-08-27 03:09,Thu,leasing,5.6,no tour
+H5379,2026-08-27 04:52,Thu,leasing,5.9,tour booked
+H5909,2026-08-27 07:59,Thu,leasing,0.8,tour booked
+H5733,2026-08-27 16:34,Thu,maintenance,1.3,work order created
+H5472,2026-08-27 23:39,Thu,leasing,9.4,tour booked
+H5490,2026-08-28 01:29,Fri,maintenance,7.4,work order created
+H5045,2026-08-28 10:29,Fri,maintenance,0.7,work order created
+H5324,2026-08-28 14:54,Fri,maintenance,3.4,work order created
+H5566,2026-08-29 04:20,Sat,maintenance,53.0,work order created
+H5657,2026-08-29 06:11,Sat,rent/payment,50.3,resolved
+H5232,2026-08-29 09:34,Sat,leasing,49.7,no tour
+H5378,2026-08-29 09:47,Sat,maintenance,48.7,work order created
+H5091,2026-08-29 11:57,Sat,maintenance,45.0,work order created
+H5014,2026-08-30 10:19,Sun,maintenance,21.9,work order created
+H5593,2026-08-30 12:14,Sun,other,21.9,resolved
+H5521,2026-08-30 15:35,Sun,maintenance,20.0,work order created
+H5660,2026-08-30 19:14,Sun,maintenance,16.0,work order created
+H5177,2026-08-31 17:39,Mon,leasing,17.3,tour booked
+H5239,2026-09-01 05:41,Tue,maintenance,5.3,work order created
+H5387,2026-09-01 08:33,Tue,maintenance,0.1,work order created
+H5685,2026-09-01 09:28,Tue,leasing,2.1,no tour
+H5297,2026-09-01 11:17,Tue,maintenance,1.0,work order created
+H5736,2026-09-01 11:19,Tue,leasing,4.3,no tour
+H5911,2026-09-01 20:13,Tue,maintenance emergency,2.5,vendor dispatched
+H5435,2026-09-01 23:39,Tue,leasing,9.5,no tour
+H5181,2026-09-02 00:51,Wed,maintenance,8.0,work order created
+H5723,2026-09-02 01:03,Wed,leasing,9.9,tour booked
+H5309,2026-09-02 02:13,Wed,other,6.1,resolved
+H5491,2026-09-02 02:13,Wed,rent/payment,5.8,resolved
+H5070,2026-09-02 05:20,Wed,maintenance,2.8,work order created
+H5920,2026-09-02 09:39,Wed,rent/payment,6.0,resolved
+H5901,2026-09-02 09:41,Wed,leasing,7.8,no tour
+H5250,2026-09-02 11:56,Wed,other,0.6,resolved
+H5254,2026-09-02 17:47,Wed,other,15.5,resolved
+H5473,2026-09-02 21:41,Wed,leasing,10.6,no tour
+H5594,2026-09-02 23:21,Wed,rent/payment,10.3,resolved
+H5073,2026-09-03 21:13,Thu,maintenance,12.5,work order created
+H5462,2026-09-04 00:37,Fri,leasing,10.1,no tour
+H5868,2026-09-04 04:16,Fri,maintenance,4.4,work order created
+H5058,2026-09-04 06:57,Fri,maintenance,3.0,work order created
+H5815,2026-09-04 07:07,Fri,maintenance,3.0,work order created
+H5595,2026-09-04 08:02,Fri,maintenance,2.0,work order created
+H5809,2026-09-04 17:07,Fri,maintenance,64.7,work order created
+H5244,2026-09-04 19:57,Fri,leasing,61.1,no tour
+H5137,2026-09-04 20:22,Fri,leasing,63.2,no tour
+H5169,2026-09-04 20:58,Fri,maintenance,62.0,work order created
+H5535,2026-09-05 00:14,Sat,maintenance,56.0,work order created
+H5147,2026-09-05 02:25,Sat,maintenance,56.7,work order created
+H5010,2026-09-05 04:20,Sat,rent/payment,52.0,resolved
+H5860,2026-09-05 06:44,Sat,leasing,49.8,no tour
+H5927,2026-09-05 07:17,Sat,leasing,48.8,no tour
+H5805,2026-09-05 11:20,Sat,maintenance,47.0,work order created
+H5818,2026-09-05 22:20,Sat,other,35.1,resolved
+H5760,2026-09-06 03:36,Sun,leasing,30.0,no tour
+H5076,2026-09-06 06:03,Sun,maintenance emergency,27.3,vendor dispatched
+H5123,2026-09-06 09:11,Sun,leasing,24.5,no tour
+H5887,2026-09-06 22:19,Sun,maintenance,13.4,work order created
+H5197,2026-09-07 03:18,Mon,maintenance,5.4,work order created
+H5875,2026-09-07 16:10,Mon,maintenance,2.1,work order created
+H5405,2026-09-07 17:52,Mon,leasing,16.6,no tour
+H5259,2026-09-07 21:55,Mon,leasing,12.0,tour booked
+H5256,2026-09-08 00:01,Tue,maintenance,8.1,work order created
+H5419,2026-09-08 02:15,Tue,leasing,6.9,no tour
+H5761,2026-09-08 02:35,Tue,other,8.1,resolved
+H5172,2026-09-08 08:14,Tue,leasing,1.9,no tour
+H5245,2026-09-08 18:02,Tue,maintenance,15.2,work order created
+H5508,2026-09-09 00:21,Wed,leasing,7.7,no tour
+H5421,2026-09-09 04:53,Wed,maintenance,3.5,work order created
+H5449,2026-09-09 06:51,Wed,leasing,1.6,no tour
+H5160,2026-09-09 12:59,Wed,maintenance,1.4,work order created
+H5318,2026-09-09 15:42,Wed,maintenance,6.2,work order created
+H5044,2026-09-09 15:47,Wed,maintenance,5.4,work order created
+H5655,2026-09-09 19:42,Wed,maintenance,14.6,work order created
+H5053,2026-09-09 22:58,Wed,other,11.6,resolved
+H5385,2026-09-10 12:23,Thu,maintenance,1.2,work order created
+H5422,2026-09-10 15:38,Thu,maintenance,2.0,work order created
+H5888,2026-09-11 03:11,Fri,other,6.5,resolved
+H5173,2026-09-11 13:38,Fri,maintenance,3.3,work order created
+H5437,2026-09-11 15:46,Fri,other,16.5,resolved
+H5194,2026-09-11 17:48,Fri,leasing,62.5,no tour
+H5778,2026-09-11 19:22,Fri,maintenance,64.5,work order created
+H5453,2026-09-11 22:31,Fri,leasing,57.5,no tour
+H5626,2026-09-12 07:03,Sat,maintenance,50.3,work order created
+H5051,2026-09-12 14:58,Sat,leasing,43.1,no tour
+H5796,2026-09-12 19:09,Sat,maintenance,37.0,work order created
+H5104,2026-09-13 01:46,Sun,other,34.1,resolved
+H5455,2026-09-13 05:40,Sun,other,28.8,resolved
+H5383,2026-09-13 08:19,Sun,leasing,26.9,tour booked
+H5401,2026-09-13 09:15,Sun,maintenance,22.9,work order created
+H5902,2026-09-13 15:47,Sun,maintenance,16.6,work order created
+H5273,2026-09-14 21:13,Mon,maintenance,13.3,work order created
+H5505,2026-09-15 12:53,Tue,maintenance,5.8,work order created
+H5304,2026-09-15 13:25,Tue,maintenance,1.6,work order created
+H5781,2026-09-15 18:57,Tue,leasing,15.5,no tour
+H5602,2026-09-16 02:51,Wed,maintenance,6.3,work order created
+H5087,2026-09-16 02:59,Wed,maintenance,7.1,work order created
+H5759,2026-09-16 08:59,Wed,leasing,1.6,tour booked
+H5746,2026-09-16 20:57,Wed,maintenance,11.3,work order created
+H5184,2026-09-16 21:04,Wed,leasing,13.7,tour booked
+H5730,2026-09-16 22:07,Wed,leasing,10.7,no tour
+H5946,2026-09-16 23:34,Wed,maintenance,9.7,work order created
+H5278,2026-09-17 00:48,Thu,maintenance,7.8,work order created
+H5146,2026-09-17 01:52,Thu,leasing,6.9,no tour
+H5607,2026-09-17 07:40,Thu,leasing,3.1,no tour
+H5855,2026-09-17 14:47,Thu,other,2.3,resolved
+H5939,2026-09-17 16:00,Thu,maintenance,17.3,work order created
+H5199,2026-09-18 07:29,Fri,maintenance,1.2,work order created
+H5728,2026-09-18 09:26,Fri,maintenance,0.6,work order created
+H5427,2026-09-18 10:34,Fri,leasing,2.2,tour booked
+H5512,2026-09-18 11:43,Fri,leasing,1.7,no tour
+H5742,2026-09-18 14:32,Fri,leasing,1.8,no tour
+H5004,2026-09-18 15:17,Fri,maintenance,2.0,work order created
+H5198,2026-09-19 08:15,Sat,maintenance,49.7,work order created
+H5799,2026-09-19 15:35,Sat,leasing,44.0,no tour
+H5793,2026-09-19 18:49,Sat,maintenance,39.9,work order created
+H5840,2026-09-19 22:52,Sat,maintenance,37.1,work order created
+H5691,2026-09-19 23:00,Sat,leasing,33.7,no tour
+H5357,2026-09-19 23:54,Sat,maintenance emergency,3.5,vendor dispatched
+H5708,2026-09-20 03:13,Sun,maintenance emergency,0.9,vendor dispatched
+H5132,2026-09-20 05:50,Sun,maintenance,28.3,work order created
+H5743,2026-09-20 14:03,Sun,leasing,20.6,no tour
+H5800,2026-09-20 22:09,Sun,leasing,11.8,no tour
+H5072,2026-09-21 03:37,Mon,leasing,4.4,no tour
+H5798,2026-09-21 07:33,Mon,leasing,2.3,tour booked
+H5007,2026-09-21 10:04,Mon,maintenance,2.6,work order created
+H5411,2026-09-21 10:48,Mon,maintenance,6.8,work order created
+H5162,2026-09-21 20:01,Mon,maintenance,14.7,work order created
+H5105,2026-09-22 00:44,Tue,maintenance,9.4,work order created
+H5434,2026-09-22 00:59,Tue,maintenance,7.6,work order created
+H5788,2026-09-22 15:49,Tue,leasing,6.2,no tour
+H5722,2026-09-22 18:25,Tue,leasing,14.2,tour booked
+H5438,2026-09-23 01:10,Wed,leasing,8.6,no tour
+H5897,2026-09-23 01:31,Wed,leasing,7.6,no tour
+H5152,2026-09-23 03:37,Wed,leasing,7.2,no tour
+H5414,2026-09-23 05:26,Wed,leasing,5.3,no tour
+H5423,2026-09-23 05:38,Wed,leasing,4.0,no tour
+H5629,2026-09-23 12:36,Wed,maintenance,2.2,work order created
+H5750,2026-09-23 16:19,Wed,rent/payment,6.8,resolved
+H5526,2026-09-24 08:46,Thu,leasing,0.9,tour booked
+H5666,2026-09-24 10:53,Thu,leasing,1.1,no tour
+H5068,2026-09-24 20:13,Thu,leasing,11.9,tour booked
+H5895,2026-09-24 20:49,Thu,rent/payment,12.7,resolved
+H5488,2026-09-25 01:43,Fri,maintenance,8.9,work order created
+H5176,2026-09-25 04:38,Fri,maintenance,3.9,work order created
+H5439,2026-09-25 15:44,Fri,maintenance,3.4,work order created
+H5283,2026-09-25 16:45,Fri,leasing,5.4,no tour
+H5496,2026-09-25 20:31,Fri,leasing,60.8,no tour
+H5767,2026-09-25 21:09,Fri,other,61.0,resolved
+H5128,2026-09-25 21:24,Fri,maintenance,59.3,work order created
+H5327,2026-09-26 01:59,Sat,maintenance,55.5,work order created
+H5905,2026-09-26 02:59,Sat,maintenance,56.8,work order created
+H5615,2026-09-26 05:16,Sat,rent/payment,53.0,resolved
+H5159,2026-09-26 05:41,Sat,leasing,50.9,no tour
+H5140,2026-09-26 07:01,Sat,leasing,51.7,no tour
+H5389,2026-09-26 07:53,Sat,leasing,48.4,no tour
+H5227,2026-09-26 11:39,Sat,leasing,47.8,no tour
+H5711,2026-09-26 14:12,Sat,other,44.9,resolved
+H5802,2026-09-26 15:11,Sat,leasing,41.0,tour booked
+H5332,2026-09-27 00:03,Sun,maintenance,34.7,work order created
+H5817,2026-09-27 01:42,Sun,leasing,33.5,no tour
+H5738,2026-09-27 02:29,Sun,leasing,29.7,no tour
+H5319,2026-09-27 17:31,Sun,maintenance,18.3,work order created
+H5030,2026-09-28 05:10,Mon,maintenance,2.8,work order created
+H5879,2026-09-28 08:23,Mon,maintenance,0.1,work order created
+H5700,2026-09-28 13:33,Mon,maintenance,18.0,work order created
+H5313,2026-09-28 13:46,Mon,leasing,7.2,no tour
+H5872,2026-09-28 19:10,Mon,rent/payment,14.9,resolved
+H5777,2026-09-28 22:15,Mon,maintenance,11.4,work order created
+H5681,2026-09-28 23:07,Mon,maintenance,9.2,work order created
+H5806,2026-09-29 00:54,Tue,leasing,8.6,no tour
+H5246,2026-09-29 05:45,Tue,leasing,2.3,no tour
+H5372,2026-09-29 09:08,Tue,leasing,3.6,no tour
+H5782,2026-09-29 13:32,Tue,rent/payment,2.2,resolved
+H5397,2026-09-29 15:16,Tue,leasing,9.2,tour booked
+H5925,2026-09-29 16:45,Tue,rent/payment,4.7,resolved
+H5460,2026-09-29 19:07,Tue,rent/payment,14.0,resolved
+H5889,2026-09-29 22:15,Tue,maintenance,11.4,work order created
+H5247,2026-09-29 23:08,Tue,maintenance,8.9,work order created
+H5634,2026-09-30 05:35,Wed,leasing,3.4,no tour
+H5609,2026-09-30 07:29,Wed,leasing,1.2,tour booked
+H5646,2026-09-30 14:18,Wed,leasing,5.1,no tour
+H5564,2026-09-30 20:16,Wed,maintenance,13.9,work order created
+H5325,2026-09-30 20:32,Wed,leasing,11.9,no tour
+H5038,2026-09-30 23:53,Wed,other,9.2,resolved

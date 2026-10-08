@@ -1,0 +1,141 @@
+unit_id,property,bedrooms,bathrooms,monthly_rent,status,available_date,pet_policy,tenant
+W-101,The Weaver,1,1,955,notice given,2027-08-01,cats and dogs under 40 lb,Dani H.
+W-102,The Weaver,3,2,1795,occupied,,cats and dogs under 40 lb,Xavier S.
+W-103,The Weaver,3,2,1690,occupied,,cats and dogs under 40 lb,Dani K.
+W-104,The Weaver,1,1,970,occupied,,cats and dogs under 40 lb,Aisha K.
+W-105,The Weaver,2,2,1315,occupied,,cats and dogs under 40 lb,Leo N.
+W-106,The Weaver,1,1,1000,occupied,,cats and dogs under 40 lb,Eli B.
+W-107,The Weaver,2,2,1350,vacant,2026-11-01,cats and dogs under 40 lb,
+W-108,The Weaver,2,2,1285,occupied,,cats and dogs under 40 lb,Leo R.
+W-109,The Weaver,3,2,1660,vacant,2026-11-01,cats and dogs under 40 lb,
+W-110,The Weaver,1,1,965,occupied,,cats and dogs under 40 lb,Tariq S.
+W-201,The Weaver,3,2,1820,occupied,,cats and dogs under 40 lb,Noah S.
+W-202,The Weaver,1,1,985,occupied,,cats and dogs under 40 lb,Ben T.
+W-203,The Weaver,1,1,1000,occupied,,cats and dogs under 40 lb,Eli S.
+W-204,The Weaver,2,2,1410,occupied,,cats and dogs under 40 lb,Wen R.
+W-205,The Weaver,3,2,1780,notice given,2027-08-01,cats and dogs under 40 lb,Isla W.
+W-206,The Weaver,3,2,1770,occupied,,cats and dogs under 40 lb,Zoe T.
+W-207,The Weaver,3,2,1795,occupied,,cats and dogs under 40 lb,Grace K.
+W-208,The Weaver,1,1,1240,vacant,2026-11-01,cats and dogs under 40 lb,
+W-209,The Weaver,3,2,1710,occupied,,cats and dogs under 40 lb,Wen S.
+W-210,The Weaver,3,2,1740,occupied,,cats and dogs under 40 lb,Grace M.
+W-301,The Weaver,1,1,1010,occupied,,cats and dogs under 40 lb,Noah T.
+W-302,The Weaver,3,2,1775,occupied,,cats and dogs under 40 lb,Quinn J.
+W-303,The Weaver,3,2,1820,occupied,,cats and dogs under 40 lb,Noah S.
+W-304,The Weaver,1,1,990,vacant,2026-10-15,cats and dogs under 40 lb,
+W-305,The Weaver,2,2,1395,occupied,,cats and dogs under 40 lb,Olivia A.
+W-306,The Weaver,1,1,920,occupied,,cats and dogs under 40 lb,Carlos G.
+W-307,The Weaver,2,2,1300,occupied,,cats and dogs under 40 lb,Rosa J.
+W-308,The Weaver,2,2,1305,occupied,,cats and dogs under 40 lb,Sam S.
+W-309,The Weaver,2,2,1365,occupied,,cats and dogs under 40 lb,Eli T.
+W-310,The Weaver,2,2,1295,occupied,,cats and dogs under 40 lb,Eli K.
+W-401,The Weaver,3,2,1720,occupied,,cats and dogs under 40 lb,Zoe G.
+W-402,The Weaver,3,2,1645,occupied,,cats and dogs under 40 lb,Carlos B.
+E-101,Estes Commons,2,2,1480,notice given,2026-11-01,cats and dogs under 40 lb,Aisha T.
+E-102,Estes Commons,3,2,1805,occupied,,cats and dogs under 40 lb,Kayla D.
+E-103,Estes Commons,3,2,1930,occupied,,cats and dogs under 40 lb,Zoe F.
+E-104,Estes Commons,2,2,1470,occupied,,cats and dogs under 40 lb,Tariq L.
+E-105,Estes Commons,3,2,1860,occupied,,cats and dogs under 40 lb,Carlos W.
+E-106,Estes Commons,3,2,1745,occupied,,cats and dogs under 40 lb,Fatima B.
+E-107,Estes Commons,4,3,2325,occupied,,cats and dogs under 40 lb,Yara G.
+E-108,Estes Commons,3,2,1880,vacant,2026-10-15,cats and dogs under 40 lb,
+E-109,Estes Commons,4,3,2155,occupied,,cats and dogs under 40 lb,Sophie L.
+E-110,Estes Commons,2,2,1405,occupied,,cats and dogs under 40 lb,Nora F.
+E-201,Estes Commons,3,2,1845,vacant,2026-10-15,cats and dogs under 40 lb,
+E-202,Estes Commons,2,2,1430,occupied,,cats and dogs under 40 lb,Pedro P.
+E-203,Estes Commons,2,2,1450,occupied,,cats and dogs under 40 lb,Pedro R.
+E-204,Estes Commons,1,1,1080,occupied,,cats and dogs under 40 lb,Isla D.
+E-205,Estes Commons,2,2,1415,notice given,2026-12-01,cats and dogs under 40 lb,Uma L.
+E-206,Estes Commons,3,2,1850,occupied,,cats and dogs under 40 lb,Victor F.
+E-207,Estes Commons,1,1,1060,occupied,,cats and dogs under 40 lb,Rosa W.
+E-208,Estes Commons,2,2,1395,occupied,,cats and dogs under 40 lb,Marcus D.
+E-209,Estes Commons,4,3,2170,occupied,,cats and dogs under 40 lb,Rosa E.
+E-210,Estes Commons,1,1,1110,occupied,,cats and dogs under 40 lb,Noah F.
+E-301,Estes Commons,1,1,1095,occupied,,cats and dogs under 40 lb,Xavier F.
+E-302,Estes Commons,1,1,1075,occupied,,cats and dogs under 40 lb,Carlos K.
+E-303,Estes Commons,2,2,1405,occupied,,cats and dogs under 40 lb,Aisha P.
+E-304,Estes Commons,2,2,1445,occupied,,cats and dogs under 40 lb,Dani H.
+E-305,Estes Commons,2,2,1480,vacant,2026-10-15,cats and dogs under 40 lb,
+E-306,Estes Commons,2,2,1500,occupied,,cats and dogs under 40 lb,Uma B.
+E-307,Estes Commons,3,2,1800,occupied,,cats and dogs under 40 lb,Carmen V.
+E-308,Estes Commons,1,1,1095,vacant,2026-11-01,cats and dogs under 40 lb,
+E-309,Estes Commons,2,2,1440,notice given,2026-12-01,cats and dogs under 40 lb,Ben P.
+E-310,Estes Commons,1,1,1050,occupied,,cats and dogs under 40 lb,Xavier D.
+E-401,Estes Commons,2,2,1500,occupied,,cats and dogs under 40 lb,Aisha W.
+E-402,Estes Commons,2,2,1410,occupied,,cats and dogs under 40 lb,Hassan A.
+E-403,Estes Commons,4,3,2130,occupied,,cats and dogs under 40 lb,Quinn M.
+E-404,Estes Commons,4,3,2255,occupied,,cats and dogs under 40 lb,Aisha P.
+E-405,Estes Commons,4,3,2130,occupied,,cats and dogs under 40 lb,Mina H.
+E-406,Estes Commons,3,2,1870,occupied,,cats and dogs under 40 lb,Fatima W.
+E-407,Estes Commons,1,1,1095,notice given,2027-01-01,cats and dogs under 40 lb,Rosa N.
+E-408,Estes Commons,2,2,1505,occupied,,cats and dogs under 40 lb,Aisha J.
+E-409,Estes Commons,4,3,2215,occupied,,cats and dogs under 40 lb,Kayla E.
+E-410,Estes Commons,4,3,2120,occupied,,cats and dogs under 40 lb,Ben T.
+P-101,Pritchard Court,3,2,2450,occupied,,no pets,Xavier L.
+P-102,Pritchard Court,2,2,2145,occupied,,no pets,Hugo S.
+P-103,Pritchard Court,2,2,2220,occupied,,no pets,Jenna R.
+P-104,Pritchard Court,4,3,3025,notice given,2027-08-01,no pets,Rosa J.
+P-105,Pritchard Court,3,2,2590,occupied,,no pets,Olivia R.
+P-106,Pritchard Court,4,3,2970,vacant,2026-11-01,no pets,
+P-107,Pritchard Court,3,2,2405,occupied,,no pets,Eli S.
+P-108,Pritchard Court,2,2,2215,occupied,,no pets,Quinn P.
+P-109,Pritchard Court,2,2,2145,occupied,,no pets,Leo W.
+P-110,Pritchard Court,4,3,2800,occupied,,no pets,Dani A.
+P-201,Pritchard Court,4,3,2785,occupied,,no pets,Kevin J.
+P-202,Pritchard Court,4,3,2730,occupied,,no pets,Rosa T.
+P-203,Pritchard Court,4,3,2925,notice given,2027-08-01,no pets,Carlos E.
+P-204,Pritchard Court,4,3,2840,occupied,,no pets,Jamal B.
+P-205,Pritchard Court,4,3,2905,occupied,,no pets,Fatima K.
+P-206,Pritchard Court,3,2,2505,occupied,,no pets,Mina G.
+P-207,Pritchard Court,4,3,2915,occupied,,no pets,Uma S.
+P-208,Pritchard Court,3,2,2455,occupied,,no pets,Yara W.
+M-101,Merritt Mill Flats,1,1,895,occupied,,cats only,Kayla W.
+M-102,Merritt Mill Flats,1,1,840,vacant,2026-11-01,cats only,
+M-103,Merritt Mill Flats,2,2,1275,occupied,,cats only,Leo C.
+M-104,Merritt Mill Flats,1,1,855,occupied,,cats only,Sun-Hee K.
+M-105,Merritt Mill Flats,1,1,835,occupied,,cats only,Dani C.
+M-106,Merritt Mill Flats,1,1,850,occupied,,cats only,Dani M.
+M-107,Merritt Mill Flats,1,1,915,occupied,,cats only,Quinn H.
+M-108,Merritt Mill Flats,1,1,890,occupied,,cats only,Sam M.
+M-109,Merritt Mill Flats,1,1,835,notice given,2026-12-01,cats only,Yara K.
+M-110,Merritt Mill Flats,1,1,900,occupied,,cats only,Daniel O.
+M-201,Merritt Mill Flats,2,2,1265,occupied,,cats only,Xavier S.
+M-202,Merritt Mill Flats,1,1,855,occupied,,cats only,Olivia H.
+M-203,Merritt Mill Flats,2,2,1315,occupied,,cats only,Leo P.
+M-204,Merritt Mill Flats,2,2,1240,occupied,,cats only,Xavier E.
+M-205,Merritt Mill Flats,1,1,850,occupied,,cats only,Tom H.
+M-206,Merritt Mill Flats,1,1,850,occupied,,cats only,Isla H.
+M-207,Merritt Mill Flats,1,1,920,occupied,,cats only,Dani J.
+M-208,Merritt Mill Flats,1,1,880,occupied,,cats only,Mina A.
+M-209,Merritt Mill Flats,1,1,1215,vacant,2026-10-15,cats only,
+M-210,Merritt Mill Flats,2,2,1295,occupied,,cats only,Victor W.
+M-301,Merritt Mill Flats,2,2,1215,occupied,,cats only,Kayla B.
+M-302,Merritt Mill Flats,1,1,895,occupied,,cats only,Rosa J.
+M-303,Merritt Mill Flats,1,1,860,occupied,,cats only,Noah S.
+M-304,Merritt Mill Flats,1,1,860,occupied,,cats only,Hugo D.
+C-101,Church Street Duplexes,4,3,3315,occupied,,no pets,Lily S.
+C-102,Church Street Duplexes,4,3,3420,occupied,,no pets,Rosa G.
+C-103,Church Street Duplexes,3,2,3155,occupied,,no pets,Hugo R.
+C-104,Church Street Duplexes,3,2,3030,occupied,,no pets,Jamal C.
+C-105,Church Street Duplexes,4,3,3455,occupied,,no pets,Rosa E.
+C-106,Church Street Duplexes,3,2,2840,notice given,2027-08-01,no pets,Fatima W.
+C-107,Church Street Duplexes,3,2,3155,vacant,2026-11-01,no pets,
+C-108,Church Street Duplexes,4,3,3320,occupied,,no pets,Max G.
+C-109,Church Street Duplexes,4,3,3520,occupied,,no pets,Ana P.
+C-110,Church Street Duplexes,3,2,2840,occupied,,no pets,Isla R.
+C-201,Church Street Duplexes,3,2,2950,occupied,,no pets,Xavier N.
+C-202,Church Street Duplexes,4,3,3275,occupied,,no pets,Noah C.
+B-101,Barclay Townhomes,3,2,2410,occupied,,cats and dogs under 40 lb,Quinn T.
+B-102,Barclay Townhomes,3,2,2290,occupied,,cats and dogs under 40 lb,Leo F.
+B-103,Barclay Townhomes,2,2,2010,occupied,,cats and dogs under 40 lb,Olivia W.
+B-104,Barclay Townhomes,3,2,2410,notice given,2027-01-01,cats and dogs under 40 lb,Quinn N.
+B-105,Barclay Townhomes,2,2,2000,notice given,2026-11-01,cats and dogs under 40 lb,Olivia H.
+B-106,Barclay Townhomes,2,2,1895,occupied,,cats and dogs under 40 lb,Eli T.
+B-107,Barclay Townhomes,2,2,1970,occupied,,cats and dogs under 40 lb,Wen S.
+B-108,Barclay Townhomes,2,2,1920,occupied,,cats and dogs under 40 lb,Ravi P.
+B-109,Barclay Townhomes,3,2,2300,occupied,,cats and dogs under 40 lb,Grace E.
+B-110,Barclay Townhomes,2,2,1955,occupied,,cats and dogs under 40 lb,Zoe B.
+B-201,Barclay Townhomes,2,2,1865,occupied,,cats and dogs under 40 lb,Fatima E.
+B-202,Barclay Townhomes,3,2,2410,occupied,,cats and dogs under 40 lb,Eli R.
+B-203,Barclay Townhomes,3,2,2280,vacant,2026-10-15,cats and dogs under 40 lb,
+B-204,Barclay Townhomes,3,2,2325,occupied,,cats and dogs under 40 lb,Jordan K.

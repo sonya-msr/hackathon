@@ -1,0 +1,10 @@
+vendor_id,name,trade,after_hours,rate,phone
+V1,Triangle Comfort HVAC,HVAC,yes,"$95/hr, $175 after-hours call-out",919-555-0141
+V2,Bolin Electric,electrical,yes,"$110/hr, $200 after-hours call-out",919-555-0177
+V3,Piedmont Plumbing & Drain,"plumbing, sewer, water heaters",yes,"$120/hr, $225 after-hours call-out",919-555-0123
+V4,Hill Lock & Key,locksmith,yes,"$85 per lockout, $140 rekey",919-555-0190
+V5,Orange County Pest,pest control,no,$150 per treatment,919-555-0112
+V6,Carrboro Roofing,"roofing, gutters",no,quote per job,919-555-0168
+V7,AllDry Water Restoration,"water damage, drying",yes,"quote per job, 2-hour response",919-555-0155
+V8,Tar River Appliance,appliance repair,no,$90 diagnostic,919-555-0131
+V9,Glass & Screen Co.,"windows, glass",no,quote per job,919-555-0104
